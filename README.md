@@ -177,4 +177,4 @@ Select 1 (/bin/nano)
 ## 🏁 You're Done!
 
 Your Aztec node is now being monitored!
-You’ll receive a Telegram alert based on the sync status and the script type you chose.
+You’ll receive Telegram alerts based on its sync status — whether it's in sync or falls out of sync.
